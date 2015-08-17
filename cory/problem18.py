@@ -1,3 +1,9 @@
+"""
+Code to compute the solution to Project Euler problem 18. The problem asks
+to compute the maximum sum possible by starting at the top of the pyramid
+and working your way down in a line.
+"""
+
 string_of_inputs = """75
 95 64
 17 47 82
